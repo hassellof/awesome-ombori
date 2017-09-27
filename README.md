@@ -6,6 +6,7 @@ An awesome style list that curates the best libraries, tools, tutorials, article
 * [React Enlightenment](https://www.reactenlightenment.com/)
 * [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 * [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
+* [React Lifecycle Simulators](https://reactarmory.com/guides/lifecycle-simulators#Prop-updates)
 
 ## React Native
 * [React Native Animations Using the Animated API](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae)
