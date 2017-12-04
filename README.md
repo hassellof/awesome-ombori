@@ -16,6 +16,7 @@ An awesome style list that curates the best libraries, tools, tutorials, article
 * [An Introduction to Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 * [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.t4mhrze4q)
 * [Redux Best Practices](https://medium.com/@kylpo/redux-best-practices-eef55a20cc72)
+* [Free Egghead.io video course from Dan Abramov: "Building React Applications with Idiomatic Redux"](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ## Other
 * [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/)
